@@ -22,7 +22,6 @@ public class VentanaPrincipal extends javax.swing.JFrame {
     ImageIcon x;
     int[][] m;
     int fin;
-    int k;
 
     public VentanaPrincipal() {
         fin = 0;
