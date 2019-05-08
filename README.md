@@ -615,3 +615,4 @@ CONCLUSIONES
 Nombre de estudiante: Edison Amendaño
 
 Firma de estudiante: 
+![Firma](https://user-images.githubusercontent.com/49033575/57345651-42c37800-7111-11e9-8c6b-5604f511feba.png)
